@@ -1,0 +1,39 @@
+/*
+    Frank Hattler
+    Comp 20
+    Assignment 1
+*/
+
+body {
+    background-color: black;
+    font-size: 28px;
+    font-family: Helvetica;
+    color: white;
+    text-align: left;
+}
+
+a:link, a:visited{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 30px;
+    color: blue;
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    text-align: center;
+    padding: 10px;
+    color: white
+}
+img {
+    max-width: 60%;
+    max-height: 60%;
+}
